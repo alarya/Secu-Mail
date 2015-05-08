@@ -14,7 +14,7 @@ import sun.net.smtp.SmtpClient;
 
 /**
  *
- * @author  Ravee
+ * @author  Alok
  */
 public class SendMailWithAttachmentsDialog extends javax.swing.JDialog {
     MainForm parent;
