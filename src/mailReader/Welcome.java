@@ -16,7 +16,7 @@ import net.n3.nanoxml.XMLParserFactory;
 
 /**
  *
- * @author  Ravee
+ * @author  Alok
  */
 public class Welcome extends javax.swing.JFrame {
     
