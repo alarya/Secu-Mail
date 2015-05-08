@@ -11,7 +11,7 @@ import javax.swing.event.*;
 
 /**
  *
- * @author  Ravee
+ * @author  Alok
  */
 public class Help extends javax.swing.JFrame {
     MainForm parent;
