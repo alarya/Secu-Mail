@@ -10,7 +10,7 @@ import java.io.ObjectOutputStream;
 
 /**
  *
- * @author  Ravee
+ * @author  Alok
  */
 public class MainForm extends javax.swing.JFrame {
     UserDB db;
