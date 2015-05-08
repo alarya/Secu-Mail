@@ -5,7 +5,7 @@ import java.awt.Toolkit;
 
 /**
  *
- * @author  Ravee
+ * @author  Alok
  */
 public class MessageBox extends javax.swing.JDialog {
     public boolean ok;
