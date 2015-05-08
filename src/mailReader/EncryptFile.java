@@ -8,7 +8,7 @@ import rsaPack.PGPEncDec;
 
 /**
  *
- * @author  Ashish
+ * @author  Alok
  */
 public class EncryptFile extends javax.swing.JFrame {
     MainForm parent;
