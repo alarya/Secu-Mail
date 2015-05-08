@@ -9,7 +9,7 @@ import rsaPack.Generator;
 
 /**
  *
- * @author Ravee
+ * @author Alok
  */
 public class KeyManagement extends javax.swing.JFrame {
     MainForm parent;
