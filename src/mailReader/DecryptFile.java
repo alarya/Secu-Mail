@@ -8,7 +8,7 @@ import rsaPack.PGPEncDec;
 
 /**
  *
- * @author  Ashish
+ * @author  Alok
  */
 public class DecryptFile extends javax.swing.JFrame {
     MainForm parent;
