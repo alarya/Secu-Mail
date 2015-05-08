@@ -9,7 +9,7 @@ import java.util.Calendar;
 
 /**
  *
- * @author Ravee
+ * @author Alok
  */
 public class SingleMail {
     public String from, msg, subject;
