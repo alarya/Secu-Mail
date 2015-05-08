@@ -8,7 +8,7 @@ import sun.net.smtp.SmtpClient;
 
 /**
  *
- * @author  Ravee
+ * @author  Alok
  */
 public class Login extends javax.swing.JDialog {
 
